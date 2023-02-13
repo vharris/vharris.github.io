@@ -14,7 +14,11 @@ h1 {
   font-size: 3rem;
   margin-top: 2rem;
 }
-
+header p {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
 .container {
   min-height: 100%;
   display: flex;
